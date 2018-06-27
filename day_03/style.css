@@ -1,17 +1,17 @@
   :root {
-    --base: #ffc600;
-    --spacing: 10px;
-    --blur: 10px;
+      --base: #ffc600;
+      --spacing: 10px;
+      --blur: 10px;
   }
 
   img {
-    padding: var(--spacing);
-    background: var(--base);
-    filter: blur(var(--blur));
+      padding: var(--spacing);
+      background: var(--base);
+      filter: blur(var(--blur));
   }
 
   .hl {
-    color: var(--base);
+      color: var(--base);
   }
 
   /*
@@ -19,26 +19,26 @@
   */
 
   body {
-    text-align: center;
+      text-align: center;
   }
 
   body {
-    background: #193549;
-    color: white;
-    font-family: 'helvetica neue', sans-serif;
-    font-weight: 100;
-    font-size: 50px;
+      background: #193549;
+      color: white;
+      font-family: 'helvetica neue', sans-serif;
+      font-weight: 100;
+      font-size: 50px;
   }
 
   .controls {
-    margin-bottom: 50px;
+      margin-bottom: 50px;
   }
 
   a {
-    color: var(--base);
-    text-decoration: none;
+      color: var(--base);
+      text-decoration: none;
   }
 
   input {
-    width:100px;
+      width: 100px;
   }
